@@ -28,7 +28,7 @@ class TextLearnView extends StatelessWidget{
       ),
       body: Center(child:
       Text(
-          'Koraya selamalar...'
+          'Eerenss\n' + 'FirstAppTryingAndChanging'
       )),
     );
   }
