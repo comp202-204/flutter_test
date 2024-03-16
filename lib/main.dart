@@ -28,7 +28,7 @@ class TextLearnView extends StatelessWidget{
       ),
       body: Center(child:
       Text(
-          'Eerenss\n' + 'FirstAppTryingAndChanging'
+          ' ' + 'tAppTryingAndChanging'
       )),
     );
   }
